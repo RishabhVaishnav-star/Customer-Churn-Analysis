@@ -18,8 +18,5 @@ Analyzed customer churn data using SQL, Power BI, and Machine Learning to identi
 ## 🤖 Machine Learning
 Built a Logistic Regression model to predict churn with ~80% accuracy.
 
-## 📊 Dashboard
-(Add screenshot)
-
 ## 🚀 Outcome
 Delivered actionable insights to improve customer retention and reduce churn.
